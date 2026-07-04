@@ -17,7 +17,7 @@ The environment includes Security Group configuration, EC2 instance monitoring, 
 
 ## Architecture
 
-tbd...
+![Architecture Diagram](architecture/aws-ec2-instance-management.png)
 
 ## Skills Demonstrated
 
