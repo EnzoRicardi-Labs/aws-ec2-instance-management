@@ -56,7 +56,7 @@ tbd...
 
 ## Project Files
 
-- Architecture Diagram
+- Architecture Diagram (Lucidchart)
 - EC2 Instance Configuration
 - Web Server Validation
 - EC2 Instance Resize
