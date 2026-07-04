@@ -4,7 +4,7 @@
 
 This project demonstrates the deployment, configuration, monitoring, and scaling of an Amazon EC2 instance deployed in a public subnet within an Amazon VPC.
 
-The environment includes Security Group configuration, instance monitoring, Amazon EBS volume modification, instance resizing, termination protection, and web server validation using core Amazon EC2 features and AWS best practices.
+The environment includes Security Group configuration, EC2 instance monitoring, Amazon EBS volume modification, instance resizing, termination protection, and validation of an Apache web server over HTTP.
 
 ## Architecture Components
 
